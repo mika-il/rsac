@@ -1,0 +1,10 @@
+{
+  allAlumnises (filter : {
+    isPublished: true
+  }) {
+    title
+    name
+    airline
+    imageUrl
+  }
+}

@@ -1,0 +1,6 @@
+query Pages($slug: String!) {
+    Pages(slug: $slug) {
+        title
+        content
+    }
+}

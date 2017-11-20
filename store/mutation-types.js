@@ -1,0 +1,2 @@
+export const ENROLL_SUBMIT = 'ENROLL_SUBMIT'
+export const ENROLL_SUCCESS = 'ENROLL_SUCCESS'

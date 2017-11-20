@@ -1,0 +1,6 @@
+query Blogs($slug: String!) {
+  Blogs(slug: $slug) {
+    title
+    content
+  }
+}
